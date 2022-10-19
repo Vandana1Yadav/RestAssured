@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T09:44:43 GMT-04:00" name="Default suite" finished-at="2022-10-14T09:45:22 GMT-04:00" duration-ms="39186">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T09:44:43 GMT-04:00" name="Default test" finished-at="2022-10-14T09:45:22 GMT-04:00" duration-ms="39186">
+      <class name="com.Spree.Create_Account_Using_API_Login_the_Account_Using_UI">
+        <test-method signature="createAccount()[pri:1, instance:com.Spree.Create_Account_Using_API_Login_the_Account_Using_UI@25fb8912]" started-at="2022-10-14T09:44:43 GMT-04:00" name="createAccount" finished-at="2022-10-14T09:44:53 GMT-04:00" duration-ms="10025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="loginAccountusingUI()[pri:2, instance:com.Spree.Create_Account_Using_API_Login_the_Account_Using_UI@25fb8912]" started-at="2022-10-14T09:44:53 GMT-04:00" name="loginAccountusingUI" finished-at="2022-10-14T09:45:18 GMT-04:00" duration-ms="25258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAccountusingUI -->
+        <test-method signature="retrieveAccount()[pri:3, instance:com.Spree.Create_Account_Using_API_Login_the_Account_Using_UI@25fb8912]" started-at="2022-10-14T09:45:18 GMT-04:00" name="retrieveAccount" finished-at="2022-10-14T09:45:21 GMT-04:00" duration-ms="2958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retrieveAccount -->
+        <test-method signature="updateAccount()[pri:4, instance:com.Spree.Create_Account_Using_API_Login_the_Account_Using_UI@25fb8912]" started-at="2022-10-14T09:45:21 GMT-04:00" name="updateAccount" finished-at="2022-10-14T09:45:22 GMT-04:00" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAccount -->
+      </class> <!-- com.Spree.Create_Account_Using_API_Login_the_Account_Using_UI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

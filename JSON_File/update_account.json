@@ -1,0 +1,11 @@
+{
+  "user": {
+    "email": "vandanademo5@spree.com",
+    "first_name": "VKupdated",
+    "last_name": "Yad",
+    "bill_address_id": "Test drive 06000",
+    "ship_address_id": "Test drive 06000",
+    "password": "pass1234",
+    "password_confirmation": "pass1234"
+}
+}
